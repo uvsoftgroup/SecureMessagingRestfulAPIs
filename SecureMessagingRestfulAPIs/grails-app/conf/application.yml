@@ -79,7 +79,7 @@ dataSource:
     driverClassName: org.postgresql.Driver
     dialect : org.hibernate.dialect.PostgreSQLDialect
     username: postgres # your database username
-    password: planner81 # your database password
+    password: testuser0001 # your database password
 
 environments:
     development:
